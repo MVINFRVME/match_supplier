@@ -227,6 +227,7 @@ export function SearchWorkspace({ meta, value, onChange, onSubmit, onParsed }: P
                 onChange={(e) =>
                   set('max_moq', e.target.value ? Number(e.target.value) : undefined)
                 }
+                onInvalid={(e) => e.preventDefault()}
                 placeholder="30 000"
               />
               <span className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-sm text-ink-soft">
