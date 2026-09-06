@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    container_name: match-supplier
+    restart: unless-stopped
+    ports:
+      # только на loopback VPS: снаружи ходят через nginx (80/443 → сюда)
+      - "127.0.0.1:8000:8000"
+    # Compose подхватит переменные из .env в корне репо (если файл есть)
+    environment:
+      GROQ_API_KEY: ${GROQ_API_KEY:-}
+      GROQ_MODEL: ${GROQ_MODEL:-openai/gpt-oss-20b}

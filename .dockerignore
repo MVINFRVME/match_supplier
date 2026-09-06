@@ -1,0 +1,17 @@
+.git
+.venv
+**/__pycache__
+**/*.pyc
+.pytest_cache
+.ruff_cache
+.mypy_cache
+node_modules
+frontend/dist
+.env
+backend/.env
+*.log
+.idea
+.vscode
+.DS_Store
+.superdesign
+agent-transcripts

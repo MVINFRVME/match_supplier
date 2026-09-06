@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "sevmoloko",
+    "name": "СеверМолоко",
+    "short_description": "Молочная продукция и сыры для ритейла и HoReCa с доставкой по СЗФО.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Санкт-Петербург",
+      "Великий Новгород"
+    ],
+    "regions": [
+      "Северо-Запад",
+      "Ленинградская область"
+    ],
+    "contacts": {
+      "phone": "+7 (812) 555-10-21",
+      "email": "sales@sevmoloko-demo.ru",
+      "website": "https://sevmoloko-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 25 000 ₽",
+    "min_order_amount": 25000,
+    "price_hint": "молоко ~62 ₽/л оптом",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Своя логистика, 1–2 дня по СПб и ЛО",
+    "notes_default": "Стабильные поставки, удобно для сетей пивных и кафе.",
+    "tags": [
+      "молоко",
+      "сыр",
+      "сметана"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-28",
+    "source_url": "https://sevmoloko-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "pakfood-ural",
+    "name": "ПакФуд Урал",
+    "short_description": "Пищевая упаковка: плёнка, контейнеры, крафт для производителей и кейтеринга.",
+    "categories": [
+      "Упаковка"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Челябинск"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 290-44-18",
+      "email": "opt@pakfood-ural-demo.ru",
+      "website": "https://pakfood-ural-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 40 000 ₽",
+    "min_order_amount": 40000,
+    "price_hint": "контейнеры 500 мл от 4,2 ₽",
+    "certificates": [
+      "ISO 9001"
+    ],
+    "delivery": "ТК по РФ, самовывоз со склада",
+    "tags": [
+      "упаковка",
+      "плёнка",
+      "контейнеры"
+    ],
+    "lead_time_days": 4,
+    "verified": true,
+    "last_updated": "2026-08-14",
+    "source_url": "https://pakfood-ural-demo.ru",
+    "delivery_types": [
+      "pickup",
+      "transport_company"
+    ]
+  },
+  {
+    "id": "volga-bakaleya",
+    "name": "ВолгаБакалея",
+    "short_description": "Крупы, масла, специи и базовые ингредиенты для производства и магазинов.",
+    "categories": [
+      "Бакалея",
+      "Ингредиенты"
+    ],
+    "cities": [
+      "Самара",
+      "Тольятти",
+      "Казань"
+    ],
+    "regions": [
+      "Поволжье",
+      "Самарская область"
+    ],
+    "contacts": {
+      "phone": "+7 (846) 311-08-55",
+      "email": "b2b@volga-bakaleya-demo.ru",
+      "website": "https://volga-bakaleya-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 15 000 ₽",
+    "min_order_amount": 15000,
+    "price_hint": "подсолнечное масло от 98 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "Органик (часть SKU)"
+    ],
+    "delivery": "Доставка по Поволжью 2–4 дня",
+    "tags": [
+      "крупы",
+      "масло",
+      "специи"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-09-01",
+    "source_url": "https://volga-bakaleya-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "kuban-fresh",
+    "name": "КубаньФреш",
+    "short_description": "Овощи, зелень и свежие полуфабрикаты для ресторанов и магазинов.",
+    "categories": [
+      "Овощи и фрукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Краснодар",
+      "Сочи",
+      "Ростов-на-Дону"
+    ],
+    "regions": [
+      "Юг",
+      "Краснодарский край"
+    ],
+    "contacts": {
+      "phone": "+7 (861) 205-77-30",
+      "email": "orders@kuban-fresh-demo.ru",
+      "website": "https://kuban-fresh-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 20 000 ₽",
+    "min_order_amount": 20000,
+    "price_hint": "сезонные цены, прайс по запросу",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Холодовая цепь, ежедневные рейсы по краю",
+    "tags": [
+      "овощи",
+      "зелень",
+      "фреш"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-03",
+    "source_url": "https://kuban-fresh-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "meatline-msk",
+    "name": "МитЛайн Москва",
+    "short_description": "Мясо, фарш и заморозка для кухни и производства.",
+    "categories": [
+      "Мясо и птица",
+      "Заморозка"
+    ],
+    "cities": [
+      "Москва",
+      "Подольск"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 120-66-41",
+      "email": "opt@meatline-msk-demo.ru",
+      "website": "https://meatline-msk-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 50 000 ₽",
+    "min_order_amount": 50000,
+    "price_hint": "говядина оптом от 540 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Ветеринарные сопроводительные"
+    ],
+    "delivery": "Доставка по Москве ночью, МО — на следующий день",
+    "tags": [
+      "мясо",
+      "фарш",
+      "заморозка"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-08-30",
+    "source_url": "https://meatline-msk-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "sibtea",
+    "name": "СибЧай Опт",
+    "short_description": "Чай, кофе и какао для магазинов, кофеен и офисных поставок.",
+    "categories": [
+      "Чай и кофе"
+    ],
+    "cities": [
+      "Новосибирск",
+      "Томск",
+      "Кемерово"
+    ],
+    "regions": [
+      "Сибирь",
+      "Новосибирская область"
+    ],
+    "contacts": {
+      "phone": "+7 (383) 299-14-02",
+      "email": "sale@sibtea-demo.ru",
+      "website": "https://sibtea-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 12 000 ₽",
+    "min_order_amount": 12000,
+    "price_hint": "чёрный чай от 380 ₽/кг",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "ТК по Сибири и РФ",
+    "tags": [
+      "чай",
+      "кофе",
+      "какао"
+    ],
+    "lead_time_days": 5,
+    "verified": false,
+    "last_updated": "2026-06-11",
+    "source_url": "https://sibtea-demo.ru",
+    "delivery_types": [
+      "transport_company"
+    ]
+  },
+  {
+    "id": "sweet-opt-spb",
+    "name": "СвитОпт СПб",
+    "short_description": "Кондитерские изделия и снеки для розницы и вендинга.",
+    "categories": [
+      "Кондитерские изделия",
+      "Снеки"
+    ],
+    "cities": [
+      "Санкт-Петербург",
+      "Выборг"
+    ],
+    "regions": [
+      "Северо-Запад"
+    ],
+    "contacts": {
+      "phone": "+7 (812) 677-03-19",
+      "email": "b2b@sweetopt-spb-demo.ru",
+      "website": "https://sweetopt-spb-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 18 000 ₽",
+    "min_order_amount": 18000,
+    "price_hint": "наборы от 95 ₽/шт",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Доставка по СПб ежедневно",
+    "tags": [
+      "конфеты",
+      "шоколад",
+      "снеки"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-19",
+    "source_url": "https://sweetopt-spb-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "horeca-base",
+    "name": "HoReCa База",
+    "short_description": "Комплексные поставки для ресторанов: бакалея, масло, соусы, расходники.",
+    "categories": [
+      "HoReCa",
+      "Бакалея",
+      "Соусы"
+    ],
+    "cities": [
+      "Москва",
+      "Химки",
+      "Мытищи"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 988-40-27",
+      "email": "team@horeca-base-demo.ru",
+      "website": "https://horeca-base-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 30 000 ₽",
+    "min_order_amount": 30000,
+    "price_hint": "корзина под меню — по запросу",
+    "certificates": [
+      "ХАССП",
+      "ISO 22000"
+    ],
+    "delivery": "Слоты доставки 6:00–11:00",
+    "tags": [
+      "ресторан",
+      "соусы",
+      "бакалея"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-02",
+    "source_url": "https://horeca-base-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "frozen-north",
+    "name": "ФрозенНорд",
+    "short_description": "Замороженные полуфабрикаты, ягоды и рыба для производства и ритейла.",
+    "categories": [
+      "Заморозка",
+      "Рыба и морепродукты"
+    ],
+    "cities": [
+      "Мурманск",
+      "Архангельск",
+      "Санкт-Петербург"
+    ],
+    "regions": [
+      "Северо-Запад",
+      "Север"
+    ],
+    "contacts": {
+      "phone": "+7 (8152) 45-90-11",
+      "email": "opt@frozen-nord-demo.ru",
+      "website": null
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 60 000 ₽",
+    "min_order_amount": 60000,
+    "price_hint": "филе трески от 410 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Рефрижераторы, график 2 раза в неделю",
+    "tags": [
+      "заморозка",
+      "рыба",
+      "ягоды"
+    ],
+    "lead_time_days": 4,
+    "verified": true,
+    "last_updated": "2026-07-22",
+    "source_url": null,
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "grain-house",
+    "name": "ЗерноХаус",
+    "short_description": "Мука, зерновые смеси и ингредиенты для пекарен.",
+    "categories": [
+      "Ингредиенты",
+      "Бакалея"
+    ],
+    "cities": [
+      "Воронеж",
+      "Липецк",
+      "Белгород"
+    ],
+    "regions": [
+      "Центр",
+      "Черноземье"
+    ],
+    "contacts": {
+      "phone": "+7 (473) 250-19-88",
+      "email": "sales@grain-house-demo.ru",
+      "website": "https://grain-house-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 22 000 ₽",
+    "min_order_amount": 22000,
+    "price_hint": "мука в/с от 28 ₽/кг",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Доставка паллетами по Черноземью",
+    "tags": [
+      "мука",
+      "зерно",
+      "пекарня"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-08-25",
+    "source_url": "https://grain-house-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "oil-press-ug",
+    "name": "МаслоПресс Юг",
+    "short_description": "Растительные масла и шрот для пищевых производств.",
+    "categories": [
+      "Ингредиенты",
+      "Бакалея"
+    ],
+    "cities": [
+      "Краснодар",
+      "Армавир"
+    ],
+    "regions": [
+      "Юг",
+      "Краснодарский край"
+    ],
+    "contacts": {
+      "phone": "+7 (861) 333-21-05",
+      "email": "b2b@oilpress-ug-demo.ru",
+      "website": "https://oilpress-ug-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 35 000 ₽",
+    "min_order_amount": 35000,
+    "price_hint": "подсолнечное масло оптом от 89 ₽/л",
+    "certificates": [
+      "Декларация ТР ТС",
+      "ХАССП"
+    ],
+    "delivery": "Цистерны и бочки, самовывоз со завода",
+    "tags": [
+      "масло",
+      "производство"
+    ],
+    "lead_time_days": 4,
+    "verified": true,
+    "last_updated": "2026-08-08",
+    "source_url": "https://oilpress-ug-demo.ru",
+    "delivery_types": [
+      "pickup",
+      "own_transport"
+    ]
+  },
+  {
+    "id": "drink-wave",
+    "name": "ДринкВэйв",
+    "short_description": "Соки, воды и безалкогольные напитки для магазинов и HoReCa.",
+    "categories": [
+      "Напитки"
+    ],
+    "cities": [
+      "Москва",
+      "Казань",
+      "Нижний Новгород"
+    ],
+    "regions": [
+      "Центр",
+      "Поволжье"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 741-02-66",
+      "email": "opt@drinkwave-demo.ru",
+      "website": "https://drinkwave-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 28 000 ₽",
+    "min_order_amount": 28000,
+    "price_hint": "вода 1,5 л от 24 ₽",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Паллетная доставка по ЦФО и Поволжью",
+    "tags": [
+      "соки",
+      "вода",
+      "напитки"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-31",
+    "source_url": "https://drinkwave-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "eco-pack-nw",
+    "name": "ЭкоПак СЗ",
+    "short_description": "Экологичная упаковка: бумажные пакеты, биоразлагаемые контейнеры.",
+    "categories": [
+      "Упаковка"
+    ],
+    "cities": [
+      "Санкт-Петербург",
+      "Псков"
+    ],
+    "regions": [
+      "Северо-Запад"
+    ],
+    "contacts": {
+      "phone": "+7 (812) 448-90-33",
+      "email": "hello@ecopack-nw-demo.ru",
+      "website": "https://ecopack-nw-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 16 000 ₽",
+    "min_order_amount": 16000,
+    "price_hint": "крафт-пакеты от 3,1 ₽",
+    "certificates": [
+      "FSC (часть линейки)"
+    ],
+    "delivery": "Доставка по СЗФО, мелкий опт возможен",
+    "tags": [
+      "эко",
+      "крафт",
+      "упаковка"
+    ],
+    "lead_time_days": 3,
+    "verified": false,
+    "last_updated": "2026-07-05",
+    "source_url": "https://ecopack-nw-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "dairy-alt",
+    "name": "АльтМолоко",
+    "short_description": "Растительные напитки и альтернативы молоку для ритейла и кофеен.",
+    "categories": [
+      "Молочные продукты",
+      "Чай и кофе",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад"
+    ],
+    "contacts": {
+      "phone": "+7 (499) 110-55-72",
+      "email": "partners@altmoloko-demo.ru",
+      "website": "https://altmoloko-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 20 000 ₽",
+    "min_order_amount": 20000,
+    "price_hint": "овсяный напиток от 89 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "Веган-маркировка"
+    ],
+    "delivery": "Доставка по Москве и СПб 1–2 дня",
+    "tags": [
+      "альтернативы",
+      "кофейня",
+      "веган"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-09-04",
+    "source_url": "https://altmoloko-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "spice-route",
+    "name": "СпецииРоут",
+    "short_description": "Специи, смеси и маринады для производств и ресторанов.",
+    "categories": [
+      "Ингредиенты",
+      "Соусы"
+    ],
+    "cities": [
+      "Казань",
+      "Уфа",
+      "Самара"
+    ],
+    "regions": [
+      "Поволжье"
+    ],
+    "contacts": {
+      "phone": "+7 (843) 567-12-40",
+      "email": "opt@spice-route-demo.ru",
+      "website": null
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 10 000 ₽",
+    "min_order_amount": 10000,
+    "price_hint": "смеси от 220 ₽/кг",
+    "certificates": [],
+    "delivery": "Самовывоз или ТК",
+    "tags": [
+      "специи",
+      "маринады"
+    ],
+    "lead_time_days": 5,
+    "verified": false,
+    "last_updated": "2026-05-19",
+    "source_url": null,
+    "delivery_types": [
+      "pickup",
+      "transport_company"
+    ]
+  },
+  {
+    "id": "berry-farm",
+    "name": "ЯгодаФерма",
+    "short_description": "Свежие и замороженные ягоды, пюре для кондитерки и напитков.",
+    "categories": [
+      "Овощи и фрукты",
+      "Заморозка",
+      "Ингредиенты"
+    ],
+    "cities": [
+      "Тверь",
+      "Москва"
+    ],
+    "regions": [
+      "Центр",
+      "Тверская область"
+    ],
+    "contacts": {
+      "phone": "+7 (4822) 33-18-90",
+      "email": "farm@berry-farm-demo.ru",
+      "website": "https://berry-farm-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 14 000 ₽",
+    "min_order_amount": 14000,
+    "price_hint": "черника зам. от 290 ₽/кг",
+    "certificates": [
+      "Органик (часть партий)",
+      "ХАССП"
+    ],
+    "delivery": "Холодовая доставка в Москву 2–3 раза в неделю",
+    "tags": [
+      "ягоды",
+      "пюре",
+      "кондитерка"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-08-21",
+    "source_url": "https://berry-farm-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "cheese-atelier",
+    "name": "СырАтелье",
+    "short_description": "Авторские и полутвёрдые сыры для гастрономии и магазинов.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Ярославль",
+      "Москва",
+      "Кострома"
+    ],
+    "regions": [
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (4852) 68-40-15",
+      "email": "b2b@cheese-atelier-demo.ru",
+      "website": "https://cheese-atelier-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 18 000 ₽",
+    "min_order_amount": 18000,
+    "price_hint": "полутвёрдые сыры от 620 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Доставка по ЦФО в термокоробах",
+    "tags": [
+      "сыр",
+      "гастроном"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-27",
+    "source_url": "https://cheese-atelier-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "fish-market-dv",
+    "name": "РыбМаркет ДВ",
+    "short_description": "Дальневосточная рыба и морепродукты оптом.",
+    "categories": [
+      "Рыба и морепродукты",
+      "Заморозка"
+    ],
+    "cities": [
+      "Владивосток",
+      "Хабаровск"
+    ],
+    "regions": [
+      "Дальний Восток"
+    ],
+    "contacts": {
+      "phone": "+7 (423) 290-77-01",
+      "email": "sales@fishmarket-dv-demo.ru",
+      "website": "https://fishmarket-dv-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 80 000 ₽",
+    "min_order_amount": 80000,
+    "price_hint": "минтай от 145 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Ветеринарные документы"
+    ],
+    "delivery": "Рефрижераторные контейнеры по РФ",
+    "tags": [
+      "рыба",
+      "морепродукты",
+      "ДВ"
+    ],
+    "lead_time_days": 7,
+    "verified": true,
+    "last_updated": "2026-07-30",
+    "source_url": "https://fishmarket-dv-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "bakery-fill",
+    "name": "НачинкаПро",
+    "short_description": "Начинки, кремы и стабилизаторы для пекарен и кондитерских.",
+    "categories": [
+      "Ингредиенты",
+      "Кондитерские изделия"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург",
+      "Екатеринбург"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад",
+      "Урал"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 320-88-14",
+      "email": "pro@nachinka-demo.ru",
+      "website": "https://nachinka-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 25 000 ₽",
+    "min_order_amount": 25000,
+    "price_hint": "фруктовые начинки от 210 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "ISO 9001"
+    ],
+    "delivery": "Доставка по крупным городам 2–5 дней",
+    "tags": [
+      "начинки",
+      "пекарня",
+      "кондитерка"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-08-18",
+    "source_url": "https://nachinka-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "halal-line",
+    "name": "ХаляльЛайн",
+    "short_description": "Халяль-мясо, полуфабрикаты и готовые изделия.",
+    "categories": [
+      "Мясо и птица",
+      "Готовая продукция"
+    ],
+    "cities": [
+      "Казань",
+      "Уфа",
+      "Москва"
+    ],
+    "regions": [
+      "Поволжье",
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (843) 210-55-60",
+      "email": "opt@halal-line-demo.ru",
+      "website": "https://halal-line-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 35 000 ₽",
+    "min_order_amount": 35000,
+    "price_hint": "курица халяль от 210 ₽/кг",
+    "certificates": [
+      "Халяль",
+      "ХАССП"
+    ],
+    "delivery": "Холодовая цепь по Поволжью и в Москву",
+    "tags": [
+      "халяль",
+      "мясо",
+      "полуфабрикаты"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-29",
+    "source_url": "https://halal-line-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "ready-meal",
+    "name": "ReadyMeal Центр",
+    "short_description": "Готовые блюда и кулинария для ритейла и корпоративного питания.",
+    "categories": [
+      "Готовая продукция",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Тула"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 666-21-09",
+      "email": "b2b@readymeal-demo.ru",
+      "website": "https://readymeal-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 45 000 ₽",
+    "min_order_amount": 45000,
+    "price_hint": "готовые блюда от 160 ₽/порция",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Ежедневная доставка по Москве",
+    "tags": [
+      "готовая еда",
+      "кулинария"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-01",
+    "source_url": "https://readymeal-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "label-print",
+    "name": "ЛейблПринтФуд",
+    "short_description": "Этикетки, стикеры и маркировка для пищевых производств.",
+    "categories": [
+      "Упаковка"
+    ],
+    "cities": [
+      "Нижний Новгород",
+      "Москва"
+    ],
+    "regions": [
+      "Поволжье",
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (831) 420-17-55",
+      "email": "print@labelprint-demo.ru",
+      "website": "https://labelprint-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 8 000 ₽",
+    "min_order_amount": 8000,
+    "price_hint": "этикетки от 0,9 ₽/шт",
+    "certificates": [],
+    "delivery": "Самовывоз или курьер по городу",
+    "tags": [
+      "этикетки",
+      "маркировка"
+    ],
+    "lead_time_days": 2,
+    "verified": false,
+    "last_updated": "2026-06-27",
+    "source_url": "https://labelprint-demo.ru",
+    "delivery_types": [
+      "pickup",
+      "own_transport"
+    ]
+  },
+  {
+    "id": "coffee-roast",
+    "name": "РоастКофе Опт",
+    "short_description": "Свежеобжаренный кофе для кофеен и ритейла.",
+    "categories": [
+      "Чай и кофе",
+      "HoReCa"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Пермь",
+      "Тюмень"
+    ],
+    "regions": [
+      "Урал"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 311-80-44",
+      "email": "roast@coffeeroast-demo.ru",
+      "website": "https://coffeeroast-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 12 000 ₽",
+    "min_order_amount": 12000,
+    "price_hint": "зерно от 980 ₽/кг",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Отправка по Уралу 1–3 дня",
+    "tags": [
+      "кофе",
+      "обжарка",
+      "кофейня"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-09-02",
+    "source_url": "https://coffeeroast-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "sauce-lab",
+    "name": "СоусЛаб",
+    "short_description": "Соусы, кетчупы и майонезы под СТМ и для сетей.",
+    "categories": [
+      "Соусы",
+      "Готовая продукция"
+    ],
+    "cities": [
+      "Ростов-на-Дону",
+      "Краснодар"
+    ],
+    "regions": [
+      "Юг"
+    ],
+    "contacts": {
+      "phone": "+7 (863) 270-44-28",
+      "email": "stm@sauce-lab-demo.ru",
+      "website": "https://sauce-lab-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 55 000 ₽",
+    "min_order_amount": 55000,
+    "price_hint": "кетчуп СТМ — прайс по брифу",
+    "certificates": [
+      "ХАССП",
+      "ISO 22000"
+    ],
+    "delivery": "Паллеты по ЮФО и ЦФО",
+    "tags": [
+      "соусы",
+      "СТМ"
+    ],
+    "lead_time_days": 5,
+    "verified": true,
+    "last_updated": "2026-08-12",
+    "source_url": "https://sauce-lab-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "snack-factory",
+    "name": "СнекФэктори",
+    "short_description": "Чипсы, орехи и снеки для ритейла и пивных магазинов.",
+    "categories": [
+      "Снеки"
+    ],
+    "cities": [
+      "Челябинск",
+      "Уфа",
+      "Екатеринбург"
+    ],
+    "regions": [
+      "Урал",
+      "Поволжье"
+    ],
+    "contacts": {
+      "phone": "+7 (351) 220-19-77",
+      "email": "opt@snackfactory-demo.ru",
+      "website": "https://snackfactory-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 20 000 ₽",
+    "min_order_amount": 20000,
+    "price_hint": "ореховые смеси от 340 ₽/кг",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Доставка по Уралу и Поволжью",
+    "tags": [
+      "снеки",
+      "орехи",
+      "пивной"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-08-16",
+    "source_url": "https://snackfactory-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "ice-cream-opt",
+    "name": "АйсКрим Опт",
+    "short_description": "Мороженое и замороженные десерты для ритейла и кафе.",
+    "categories": [
+      "Заморозка",
+      "Кондитерские изделия"
+    ],
+    "cities": [
+      "Москва",
+      "Владимир"
+    ],
+    "regions": [
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (4922) 37-55-10",
+      "email": "cold@icecream-opt-demo.ru",
+      "website": "https://icecream-opt-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 32 000 ₽",
+    "min_order_amount": 32000,
+    "price_hint": "порционное мороженое от 38 ₽",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Рефрижератор, график 3 раза в неделю",
+    "tags": [
+      "мороженое",
+      "десерты"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-23",
+    "source_url": "https://icecream-opt-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "veg-protein",
+    "name": "ВегПротеин",
+    "short_description": "Растительный белок и ингредиенты для ЗОЖ-продукции.",
+    "categories": [
+      "Ингредиенты",
+      "Готовая продукция"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург",
+      "Казань"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад",
+      "Поволжье"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 155-90-24",
+      "email": "b2b@vegprotein-demo.ru",
+      "website": "https://vegprotein-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 27 000 ₽",
+    "min_order_amount": 27000,
+    "price_hint": "изолят гороха от 890 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Веган"
+    ],
+    "delivery": "ТК по РФ, склад в Москве",
+    "tags": [
+      "зож",
+      "белок",
+      "веган"
+    ],
+    "lead_time_days": 4,
+    "verified": true,
+    "last_updated": "2026-08-26",
+    "source_url": "https://vegprotein-demo.ru",
+    "delivery_types": [
+      "transport_company"
+    ]
+  },
+  {
+    "id": "water-spring",
+    "name": "РодникОпт",
+    "short_description": "Питьевая вода в бутылях и мелкой фасовке для офисов и HoReCa.",
+    "categories": [
+      "Напитки",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Подольск",
+      "Одинцово"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 233-70-18",
+      "email": "water@rodnik-opt-demo.ru",
+      "website": "https://rodnik-opt-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 9 000 ₽",
+    "min_order_amount": 9000,
+    "price_hint": "19 л от 220 ₽",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Маршруты по Москве и МО ежедневно",
+    "tags": [
+      "вода",
+      "офис",
+      "бутыли"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-03",
+    "source_url": "https://rodnik-opt-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "asian-ing",
+    "name": "АзияИнгредиент",
+    "short_description": "Соусы, лапша и ингредиенты азиатской кухни для ресторанов.",
+    "categories": [
+      "Ингредиенты",
+      "Соусы",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург",
+      "Владивосток"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад",
+      "Дальний Восток"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 109-44-63",
+      "email": "asia@asian-ing-demo.ru",
+      "website": "https://asian-ing-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 24 000 ₽",
+    "min_order_amount": 24000,
+    "price_hint": "соевый соус от 145 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Склады в Москве и СПб",
+    "tags": [
+      "азия",
+      "соусы",
+      "ресторан"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-20",
+    "source_url": "https://asian-ing-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "local-farm-coop",
+    "name": "ФермерКооп",
+    "short_description": "Кооператив локальных фермеров: молочка, овощи, мёд для магазинов у дома.",
+    "categories": [
+      "Молочные продукты",
+      "Овощи и фрукты"
+    ],
+    "cities": [
+      "Калуга",
+      "Тула",
+      "Москва"
+    ],
+    "regions": [
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (4842) 79-20-11",
+      "email": "coop@farmcoop-demo.ru",
+      "website": null
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 8 000 ₽",
+    "min_order_amount": 8000,
+    "price_hint": "сезонный прайс, небольшие партии",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Самовывоз или объединённая доставка 2 раза в неделю",
+    "notes_default": "Удобен для небольших магазинов с низким МОQ.",
+    "tags": [
+      "фермеры",
+      "локально",
+      "небольшой опт",
+      "молоко"
+    ],
+    "lead_time_days": 3,
+    "verified": false,
+    "last_updated": "2026-07-14",
+    "source_url": null,
+    "delivery_types": [
+      "pickup",
+      "own_transport"
+    ]
+  },
+  {
+    "id": "msk-moloko-opt",
+    "name": "МосМолоко Опт",
+    "short_description": "Питьевое молоко, кефир и ряженка для сетей и HoReCa по Москве.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Химки",
+      "Мытищи"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 180-22-41",
+      "email": "opt@mosmoloko-demo.ru",
+      "website": "https://mosmoloko-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 22 000 ₽",
+    "min_order_amount": 22000,
+    "price_hint": "молоко 3,2% ~58 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Ночная доставка по Москве, МО — на следующий день",
+    "tags": [
+      "молоко",
+      "кефир",
+      "ряженка"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-04",
+    "source_url": "https://mosmoloko-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "prosto-moloko",
+    "name": "ПростоМолоко",
+    "short_description": "Базовое молоко и сливки крупными партиями для производства и пекарен.",
+    "categories": [
+      "Молочные продукты",
+      "Ингредиенты"
+    ],
+    "cities": [
+      "Москва",
+      "Подольск"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 277-10-05",
+      "email": "b2b@prosto-moloko-demo.ru",
+      "website": "https://prosto-moloko-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 40 000 ₽",
+    "min_order_amount": 40000,
+    "price_hint": "молоко в/с от 54 ₽/л при паллете",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Паллетная доставка 5 дней в неделю",
+    "tags": [
+      "молоко",
+      "сливки",
+      "производство"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-30",
+    "source_url": "https://prosto-moloko-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "ferma-dmitrov",
+    "name": "Ферма Дмитров",
+    "short_description": "Фермерское молоко и творог с короткой логистикой до Москвы.",
+    "categories": [
+      "Молочные продукты"
+    ],
+    "cities": [
+      "Москва",
+      "Дмитров"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (496) 222-48-17",
+      "email": "farm@dmitrov-moloko-demo.ru",
+      "website": "https://dmitrov-moloko-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 12 000 ₽",
+    "min_order_amount": 12000,
+    "price_hint": "фермерское молоко ~72 ₽/л",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Рефрижератор в Москву 3 раза в неделю",
+    "notes_default": "Хороший вариант, если важен вкус и небольшой МОQ.",
+    "tags": [
+      "молоко",
+      "творог",
+      "ферма"
+    ],
+    "lead_time_days": 2,
+    "verified": false,
+    "last_updated": "2026-08-15",
+    "source_url": "https://dmitrov-moloko-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "lacto-trade",
+    "name": "ЛактоТрейд",
+    "short_description": "Дистрибуция молока и сыров нескольких брендов для ритейла.",
+    "categories": [
+      "Молочные продукты"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург",
+      "Казань"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад",
+      "Поволжье"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 901-33-28",
+      "email": "trade@lacto-demo.ru",
+      "website": "https://lacto-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 35 000 ₽",
+    "min_order_amount": 35000,
+    "price_hint": "линейка молока от 56 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "ISO 22000"
+    ],
+    "delivery": "Федеральная дистрибуция, слоты по городам",
+    "tags": [
+      "молоко",
+      "сыр",
+      "дистрибуция"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-09-02",
+    "source_url": "https://lacto-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "neva-dairy",
+    "name": "НеваДэйри",
+    "short_description": "Молоко, сметана и йогурты для магазинов и кафе Петербурга.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Санкт-Петербург",
+      "Гатчина",
+      "Пушкин"
+    ],
+    "regions": [
+      "Северо-Запад",
+      "Ленинградская область"
+    ],
+    "contacts": {
+      "phone": "+7 (812) 240-19-70",
+      "email": "opt@neva-dairy-demo.ru",
+      "website": "https://neva-dairy-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 18 000 ₽",
+    "min_order_amount": 18000,
+    "price_hint": "молоко ~60 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Ежедневные рейсы по СПб",
+    "tags": [
+      "молоко",
+      "сметана",
+      "йогурт"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-01",
+    "source_url": "https://neva-dairy-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "balt-moloko",
+    "name": "БалтМолоко",
+    "short_description": "Крупный опт молока и кисломолочки по Северо-Западу.",
+    "categories": [
+      "Молочные продукты"
+    ],
+    "cities": [
+      "Санкт-Петербург",
+      "Выборг",
+      "Псков"
+    ],
+    "regions": [
+      "Северо-Запад"
+    ],
+    "contacts": {
+      "phone": "+7 (812) 715-44-02",
+      "email": "sales@balt-moloko-demo.ru",
+      "website": "https://balt-moloko-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 45 000 ₽",
+    "min_order_amount": 45000,
+    "price_hint": "молоко оптом от 52 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "ISO 9001"
+    ],
+    "delivery": "Своя логистика по СЗФО",
+    "tags": [
+      "молоко",
+      "кисломолочка",
+      "опт"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-08-24",
+    "source_url": "https://balt-moloko-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "spb-cream",
+    "name": "СПб Крим",
+    "short_description": "Сливки и молоко для кофеен и кондитерских.",
+    "categories": [
+      "Молочные продукты",
+      "Чай и кофе",
+      "HoReCa"
+    ],
+    "cities": [
+      "Санкт-Петербург",
+      "Москва"
+    ],
+    "regions": [
+      "Северо-Запад",
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (812) 333-61-20",
+      "email": "cafe@spb-cream-demo.ru",
+      "website": "https://spb-cream-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 10 000 ₽",
+    "min_order_amount": 10000,
+    "price_hint": "сливки 10–33% от 95 ₽/л",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Доставка в кофейни утром",
+    "tags": [
+      "молоко",
+      "сливки",
+      "кофейня"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-03",
+    "source_url": "https://spb-cream-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "volga-milk",
+    "name": "ВолгаМилк",
+    "short_description": "Молоко и сыры с Поволжья для ритейла и производства.",
+    "categories": [
+      "Молочные продукты"
+    ],
+    "cities": [
+      "Казань",
+      "Самара",
+      "Москва"
+    ],
+    "regions": [
+      "Поволжье",
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (843) 190-28-44",
+      "email": "opt@volga-milk-demo.ru",
+      "website": "https://volga-milk-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 28 000 ₽",
+    "min_order_amount": 28000,
+    "price_hint": "молоко от 55 ₽/л",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Холодовая доставка в Москву 2 раза в неделю",
+    "tags": [
+      "молоко",
+      "сыр",
+      "поволжье"
+    ],
+    "lead_time_days": 4,
+    "verified": true,
+    "last_updated": "2026-08-11",
+    "source_url": "https://volga-milk-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "ural-milk",
+    "name": "УралМилк",
+    "short_description": "Молоко, творог и кисломолочка для магазинов и столовых Урала.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Челябинск",
+      "Пермь"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 288-15-09",
+      "email": "b2b@ural-milk-demo.ru",
+      "website": "https://ural-milk-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 20 000 ₽",
+    "min_order_amount": 20000,
+    "price_hint": "творог 5% ~185 ₽/кг оптом",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Доставка по УрФО",
+    "tags": [
+      "молоко",
+      "кефир",
+      "творог"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-22",
+    "source_url": "https://ural-milk-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "pack-milk-msk",
+    "name": "ПакМилк Москва",
+    "short_description": "Упаковка для молочной продукции: бутылки, крышки, этикетки.",
+    "categories": [
+      "Упаковка"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 412-70-33",
+      "email": "pack@packmilk-demo.ru",
+      "website": "https://packmilk-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 30 000 ₽",
+    "min_order_amount": 30000,
+    "price_hint": "ПЭТ 1 л от 6,5 ₽",
+    "certificates": [
+      "ISO 9001"
+    ],
+    "delivery": "Склад в Москве, отгрузка по РФ",
+    "tags": [
+      "упаковка",
+      "молоко",
+      "бутылки"
+    ],
+    "lead_time_days": 5,
+    "verified": true,
+    "last_updated": "2026-08-13",
+    "source_url": "https://packmilk-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "coffee-milk-mix",
+    "name": "БаристаМилк",
+    "short_description": "Молоко и альтернативы специально под капучино и раф.",
+    "categories": [
+      "Молочные продукты",
+      "Чай и кофе",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург",
+      "Казань"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад",
+      "Поволжье"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 530-18-77",
+      "email": "hello@barista-milk-demo.ru",
+      "website": "https://barista-milk-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 15 000 ₽",
+    "min_order_amount": 15000,
+    "price_hint": "barista milk от 68 ₽/л",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Доставка в кофейни по расписанию",
+    "tags": [
+      "молоко",
+      "кофейня",
+      "бариста"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-04",
+    "source_url": "https://barista-milk-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "school-catering-milk",
+    "name": "ШколПитание Молоко",
+    "short_description": "Молоко и кисломолочка для столовых и социального питания.",
+    "categories": [
+      "Молочные продукты",
+      "Готовая продукция"
+    ],
+    "cities": [
+      "Москва",
+      "Тула",
+      "Рязань"
+    ],
+    "regions": [
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 644-29-01",
+      "email": "tender@school-milk-demo.ru",
+      "website": null
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 50 000 ₽",
+    "min_order_amount": 50000,
+    "price_hint": "тендерные цены по спецификации",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС",
+      "Документы для соцпитания"
+    ],
+    "delivery": "График под столовые, утренние окна",
+    "tags": [
+      "молоко",
+      "столовая",
+      "тендер"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-08-07",
+    "source_url": null,
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "ice-dairy",
+    "name": "АйсДэйри",
+    "short_description": "Молочная база для мороженого и замороженных десертов.",
+    "categories": [
+      "Молочные продукты",
+      "Заморозка",
+      "Ингредиенты"
+    ],
+    "cities": [
+      "Москва",
+      "Владимир"
+    ],
+    "regions": [
+      "Центр"
+    ],
+    "contacts": {
+      "phone": "+7 (4922) 41-28-55",
+      "email": "opt@ice-dairy-demo.ru",
+      "website": "https://ice-dairy-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 33 000 ₽",
+    "min_order_amount": 33000,
+    "price_hint": "сухое молоко и сливки — прайс по запросу",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Холодовая логистика по ЦФО",
+    "tags": [
+      "молоко",
+      "мороженое",
+      "ингредиенты"
+    ],
+    "lead_time_days": 4,
+    "verified": true,
+    "last_updated": "2026-08-17",
+    "source_url": "https://ice-dairy-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "meat-msk-2",
+    "name": "Мясной Двор Центр",
+    "short_description": "Охлаждённое мясо и фарш для ресторанов Москвы.",
+    "categories": [
+      "Мясо и птица",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Балашиха"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 770-12-64",
+      "email": "chef@meat-dvor-demo.ru",
+      "website": "https://meat-dvor-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 25 000 ₽",
+    "min_order_amount": 25000,
+    "price_hint": "говядина от 520 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Ветеринарные документы"
+    ],
+    "delivery": "Утренние рейсы по Москве",
+    "tags": [
+      "мясо",
+      "фарш",
+      "ресторан"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-02",
+    "source_url": "https://meat-dvor-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "pack-horeca-2",
+    "name": "ХорекаПак Про",
+    "short_description": "Одноразовая упаковка и расходники для кафе и доставки.",
+    "categories": [
+      "Упаковка",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Санкт-Петербург",
+      "Казань"
+    ],
+    "regions": [
+      "Центр",
+      "Северо-Запад",
+      "Поволжье"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 808-44-19",
+      "email": "sale@horecapack-demo.ru",
+      "website": "https://horecapack-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 12 000 ₽",
+    "min_order_amount": 12000,
+    "price_hint": "ланч-боксы от 7 ₽",
+    "certificates": [],
+    "delivery": "Курьер по городу или ТК",
+    "tags": [
+      "упаковка",
+      "доставка еды",
+      "кафе"
+    ],
+    "lead_time_days": 2,
+    "verified": false,
+    "last_updated": "2026-06-30",
+    "source_url": "https://horecapack-demo.ru",
+    "delivery_types": [
+      "own_transport",
+      "transport_company"
+    ]
+  },
+  {
+    "id": "ekb-tvorog",
+    "name": "УралТворог",
+    "short_description": "Производитель творога и творожных масс для ритейла Екатеринбурга и области.",
+    "categories": [
+      "Молочные продукты"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Нижний Тагил",
+      "Первоуральск"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 310-22-17",
+      "email": "opt@ural-tvorog-demo.ru",
+      "website": "https://ural-tvorog-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 15 000 ₽",
+    "min_order_amount": 15000,
+    "price_hint": "творог 9% от 168 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Своя логистика по Екатеринбургу 1–2 дня, область — до 3 дней",
+    "notes_default": "Удобно для сетей и кулинарий: фасовка 180 г и 5 кг.",
+    "tags": [
+      "творог",
+      "творожная масса",
+      "молоко"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-09-01",
+    "source_url": "https://ural-tvorog-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "sverdl-dairy",
+    "name": "СвердловДэйри",
+    "short_description": "Молочный комбинат: творог, сметана, молоко и ряженка с завода под Екатеринбургом.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Верхняя Пышма"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 217-90-44",
+      "email": "b2b@sverdl-dairy-demo.ru",
+      "website": "https://sverdl-dairy-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 28 000 ₽",
+    "min_order_amount": 28000,
+    "price_hint": "сметана 20% ~142 ₽/кг, творог ~175 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "ISO 22000"
+    ],
+    "delivery": "Ежедневные рейсы по Екатеринбургу, холодовая цепь",
+    "notes_default": "Стабильный объём, можно согласовать график отгрузок.",
+    "tags": [
+      "творог",
+      "сметана",
+      "молоко",
+      "ряженка"
+    ],
+    "lead_time_days": 1,
+    "verified": true,
+    "last_updated": "2026-09-03",
+    "source_url": "https://sverdl-dairy-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "ferma-iseti",
+    "name": "Ферма Исеть",
+    "short_description": "Фермерский творог, сыр и молоко с доставкой в Екатеринбург для кафе и магазинов у дома.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Арамиль"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 266-18-52",
+      "email": "hello@ferma-iseti-demo.ru",
+      "website": "https://ferma-iseti-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 12 000 ₽",
+    "min_order_amount": 12000,
+    "price_hint": "фермерский творог от 210 ₽/кг",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Доставка по Екатеринбургу 2–3 раза в неделю",
+    "notes_default": "Небольшие партии, акцент на свежесть и короткий lead time.",
+    "tags": [
+      "творог",
+      "сыр",
+      "фермерское",
+      "молоко"
+    ],
+    "lead_time_days": 2,
+    "verified": true,
+    "last_updated": "2026-08-29",
+    "source_url": "https://ferma-iseti-demo.ru",
+    "delivery_types": [
+      "own_transport"
+    ]
+  },
+  {
+    "id": "midural-moloko",
+    "name": "СредУрал Молоко",
+    "short_description": "Оптовые поставки молочки и творога для сетей Екатеринбурга и Челябинска.",
+    "categories": [
+      "Молочные продукты"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Челябинск",
+      "Курган"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 351-70-28",
+      "email": "sales@midural-moloko-demo.ru",
+      "website": "https://midural-moloko-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 35 000 ₽",
+    "min_order_amount": 35000,
+    "price_hint": "линейка творога 0–9% от 155 ₽/кг",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "ТК по Уралу, свой транспорт по Екатеринбургу",
+    "tags": [
+      "творог",
+      "молоко",
+      "кефир",
+      "опт"
+    ],
+    "lead_time_days": 3,
+    "verified": true,
+    "last_updated": "2026-09-02",
+    "source_url": "https://midural-moloko-demo.ru",
+    "delivery_types": [
+      "own_transport",
+      "transport_company"
+    ]
+  },
+  {
+    "id": "ekb-pickup-dairy",
+    "name": "СкладМолоко Екб",
+    "short_description": "Творог, молоко и кефир со склада в Екатеринбурге — только самовывоз.",
+    "categories": [
+      "Молочные продукты"
+    ],
+    "cities": [
+      "Екатеринбург"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 378-11-40",
+      "email": "sklad@ekb-pickup-dairy-demo.ru",
+      "website": "https://ekb-pickup-dairy-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 10 000 ₽",
+    "min_order_amount": 10000,
+    "price_hint": "творог от 160 ₽/кг при самовывозе",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Самовывоз со склада в Екатеринбурге (ул. Складская)",
+    "notes_default": "Оплата на месте или по счёту, отгрузка в день заявки.",
+    "tags": [
+      "творог",
+      "молоко",
+      "самовывоз",
+      "кефир"
+    ],
+    "lead_time_days": 0,
+    "verified": true,
+    "last_updated": "2026-09-05",
+    "source_url": "https://ekb-pickup-dairy-demo.ru",
+    "delivery_types": [
+      "pickup"
+    ]
+  },
+  {
+    "id": "ural-cheese-pickup",
+    "name": "СырДвор Урал",
+    "short_description": "Сыры и творог местного производства, самовывоз с сыроварни у Екатеринбурга.",
+    "categories": [
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Екатеринбург",
+      "Арамиль"
+    ],
+    "regions": [
+      "Урал",
+      "Свердловская область"
+    ],
+    "contacts": {
+      "phone": "+7 (343) 229-55-18",
+      "email": "opt@ural-cheese-pickup-demo.ru",
+      "website": "https://ural-cheese-pickup-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 8 000 ₽",
+    "min_order_amount": 8000,
+    "price_hint": "полутвёрдый сыр от 420 ₽/кг",
+    "certificates": [
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Самовывоз с сыроварни, без доставки",
+    "tags": [
+      "сыр",
+      "творог",
+      "самовывоз"
+    ],
+    "lead_time_days": 0,
+    "verified": true,
+    "last_updated": "2026-09-04",
+    "source_url": "https://ural-cheese-pickup-demo.ru",
+    "delivery_types": [
+      "pickup"
+    ]
+  },
+  {
+    "id": "msk-grocery-pickup",
+    "name": "ОптБаза Самовывоз",
+    "short_description": "Бакалея и молочка со склада в Москве — самовывоз для магазинов и кафе.",
+    "categories": [
+      "Бакалея",
+      "Молочные продукты",
+      "HoReCa"
+    ],
+    "cities": [
+      "Москва",
+      "Химки"
+    ],
+    "regions": [
+      "Центр",
+      "Московская область"
+    ],
+    "contacts": {
+      "phone": "+7 (495) 661-20-33",
+      "email": "base@msk-grocery-pickup-demo.ru",
+      "website": "https://msk-grocery-pickup-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 15 000 ₽",
+    "min_order_amount": 15000,
+    "price_hint": "молоко ~55 ₽/л при самовывозе",
+    "certificates": [
+      "ХАССП"
+    ],
+    "delivery": "Самовывоз со склада 9:00–18:00",
+    "tags": [
+      "самовывоз",
+      "бакалея",
+      "молоко"
+    ],
+    "lead_time_days": 0,
+    "verified": true,
+    "last_updated": "2026-09-03",
+    "source_url": "https://msk-grocery-pickup-demo.ru",
+    "delivery_types": [
+      "pickup"
+    ]
+  },
+  {
+    "id": "spb-freeze-pickup",
+    "name": "ФростСклад СПб",
+    "short_description": "Заморозка и полуфабрикаты — самовывоз с холодильного склада в Санкт-Петербурге.",
+    "categories": [
+      "Заморозка",
+      "Готовая продукция"
+    ],
+    "cities": [
+      "Санкт-Петербург",
+      "Гатчина"
+    ],
+    "regions": [
+      "Северо-Запад",
+      "Ленинградская область"
+    ],
+    "contacts": {
+      "phone": "+7 (812) 448-90-12",
+      "email": "cold@spb-freeze-pickup-demo.ru",
+      "website": "https://spb-freeze-pickup-demo.ru"
+    },
+    "source": "Демо-каталог Match Supplier",
+    "min_order": "от 20 000 ₽",
+    "min_order_amount": 20000,
+    "price_hint": "пельмени оптом от 210 ₽/кг",
+    "certificates": [
+      "ХАССП",
+      "Декларация ТР ТС"
+    ],
+    "delivery": "Самовывоз со склада, термобокс на месте",
+    "tags": [
+      "заморозка",
+      "самовывоз",
+      "полуфабрикаты"
+    ],
+    "lead_time_days": 0,
+    "verified": true,
+    "last_updated": "2026-09-01",
+    "source_url": "https://spb-freeze-pickup-demo.ru",
+    "delivery_types": [
+      "pickup"
+    ]
+  }
+]
