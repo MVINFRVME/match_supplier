@@ -180,6 +180,7 @@ export function SearchWorkspace({ meta, value, onChange, onSubmit, onParsed }: P
 
       <form
         className="space-y-5 px-5 py-5 sm:px-7"
+        noValidate
         onSubmit={(e) => {
           e.preventDefault()
           onSubmit()
@@ -224,10 +225,15 @@ export function SearchWorkspace({ meta, value, onChange, onSubmit, onParsed }: P
                 step={5000}
                 className="field field-control pr-8"
                 value={value.max_moq ?? ''}
-                onChange={(e) =>
-                  set('max_moq', e.target.value ? Number(e.target.value) : undefined)
-                }
-                onInvalid={(e) => e.preventDefault()}
+                onChange={(e) => {
+                  const raw = e.target.value.replace(/\s/g, '')
+                  if (!raw) {
+                    set('max_moq', undefined)
+                    return
+                  }
+                  const n = Number(raw)
+                  set('max_moq', Number.isFinite(n) ? n : undefined)
+                }}
                 placeholder="30 000"
               />
               <span className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-sm text-ink-soft">
