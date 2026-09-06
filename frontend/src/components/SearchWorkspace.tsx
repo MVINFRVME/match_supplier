@@ -319,7 +319,7 @@ export function SearchWorkspace({ meta, value, onChange, onSubmit, onParsed }: P
 
         <div className="flex flex-wrap items-center gap-3 border-t border-line/70 pt-4">
           <button type="submit" className="btn-primary h-11 px-5">
-            Применить
+            Применить фильтры
           </button>
         </div>
       </form>
