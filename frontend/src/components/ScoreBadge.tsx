@@ -124,8 +124,8 @@ export function ScoreBadge({ score, compact = false }: { score: ScoreBreakdown; 
           setOpen(true)
         }}
         title="Разбор оценки"
-        className={`inline-flex shrink-0 flex-col text-left transition hover:opacity-80 ${
-          compact ? 'w-[5rem] items-start' : 'items-start'
+        className={`inline-flex shrink-0 flex-col items-center text-center transition hover:opacity-80 ${
+          compact ? 'w-[5rem]' : ''
         }`}
       >
         <span className="text-[10px] font-semibold uppercase leading-tight tracking-[0.08em] text-ink-soft">
